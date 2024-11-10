@@ -12,4 +12,10 @@ This project is a Streamlit web application for analyzing online sales data. It 
 - **Treemap**: Regional sales breakdown
 - **Pie Chart**: Payment method distribution
 
+## Dependencies
+- pandas
+- matplotlib
+- squarify
+- streamlit
+
 
